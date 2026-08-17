@@ -29,8 +29,8 @@ An intelligent Application Tracking System (ATS) style job matcher that analyzes
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/manidweep1306/Job-Matcher.git
-   cd Job-Matcher
+   git clone https://github.com/manidweep1306/AI-Resume-Matcher.git
+   cd ai-resume-matcher
    ```
 
 2. **Create a virtual environment**
@@ -78,7 +78,7 @@ An intelligent Application Tracking System (ATS) style job matcher that analyzes
 ## 📁 Project Structure
 
 ```
-ai-job-matcher/
+ai-resume-matcher/
 ├── app.py                 # Main Flask application
 ├── data/                  # Data storage
 │   ├── jobs/              # Scraped job data
